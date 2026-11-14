@@ -13,8 +13,9 @@
 </div>
 
 ---
-
+<div align="center">
 ## Engenharia de Software | Minha base
+</div>
 
 Projetar e evoluir software exige mais do que conhecer uma linguagem. Meu trabalho combina **fundamentos, decisões arquiteturais, qualidade e responsabilidade com sistemas reais**.
 
