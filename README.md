@@ -7,7 +7,7 @@
 
 <p>Há 7 anos construo soluções de backend, APIs e sistemas distribuídos, principalmente com <strong>Java e Spring Boot</strong>. Hoje também aplico essa base à <strong>Engenharia de IA</strong>: LLMs, RAG, agentes, ferramentas e workflows autônomos de desenvolvimento.</p>
 
-<a href="https://www.linkedin.com/in/everton-oliveira-fernandes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="31" /></a>
+<a href="https://www.linkedin.com/in/everton-oliveira-fernandes/"><img alt="Conectar no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="31" /></a>
 <a href="https://github.com/EverttonFernandes?tab=repositories"><img alt="Repositórios GitHub" src="https://img.shields.io/badge/GitHub-Ver%20projetos-172B4D?style=for-the-badge&logo=github&logoColor=white" height="31" /></a>
 
 </div>
