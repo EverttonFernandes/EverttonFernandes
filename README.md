@@ -85,7 +85,7 @@ Meu foco nessa evolução é entender **como construir, avaliar, observar e prot
 `Python` · `LangChain` · `PostgreSQL` · `pgvector` · `Docker`  
 Da ingestão de PDFs à recuperação vetorial, com testes e tratamento de perguntas fora do contexto. **Projeto concluído.**
 
-**[Clínica IA — laboratório agêntico](https://github.com/EverttonFernandes/clinic-ai-platform)**  
+**[Clínica IA — laboratório agêntico](https://github.com/EverttonFernandes/clinic-ai-plataform)**  
 `Python` · `FastAPI` · `Agentes` · `RAG` · `Multi-tenancy`  
 Projeto autoral em desenvolvimento para explorar arquitetura agêntica, ferramentas controladas, isolamento de dados, agendamento e operação responsável de IA. **Funcionalidades em evolução; não é uma operação comercial.**
 
