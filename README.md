@@ -46,20 +46,21 @@ Hoje conecto essa bagagem a projetos com **LLMs, RAG, agentes e desenvolvimento 
 
 **Já apliquei em projetos e workflows**
 
-<img src="assets/rag.svg" alt="RAG" width="170" />
-  <img src="assets/langchain.svg" alt="LangChain" width="170" />
-  <img src="assets/pgvector.svg" alt="pgvector" width="170" />
-  <img src="assets/harness.svg" alt="Harness / Skills" width="170" />
-  <img src="assets/ralph.svg" alt="Ralph Loop" width="170" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-aplicado-1275A3?style=for-the-badge" height="32" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-aplicado-126B63?style=for-the-badge" height="32" />
+  <img alt="pgvector" src="https://img.shields.io/badge/pgvector-aplicado-315A85?style=for-the-badge" height="32" />
+  <img alt="Harness Engineering" src="https://img.shields.io/badge/Harness%20Engineering-aplicado-1861A2?style=for-the-badge" height="32" />
+  <img alt="Skills & Rules" src="https://img.shields.io/badge/Skills%20%26%20Rules-aplicado-1861A2?style=for-the-badge" height="32" />
+  <img alt="Ralph Loop" src="https://img.shields.io/badge/Ralph%20Loop-aplicado-7757B8?style=for-the-badge" height="32" />
 
 **Aprofundando em estudos e laboratório autoral**
 
-<img src="assets/agents.svg" alt="AI Agents" width="170" />
-  <img src="assets/tools.svg" alt="Tool Calling" width="170" />
-  <img src="assets/gateway.svg" alt="AI Gateway" width="170" />
-  <img src="assets/mcp.svg" alt="MCP" width="170" />
-  <img src="assets/evals.svg" alt="Evals / Judge" width="170" />
-  <img src="assets/security.svg" alt="AI Security" width="170" />
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-em%20estudo-155AA6?style=for-the-badge" height="32" />
+  <img alt="Tool Calling" src="https://img.shields.io/badge/Tool%20Calling-em%20estudo-176C91?style=for-the-badge" height="32" />
+  <img alt="AI Gateway" src="https://img.shields.io/badge/AI%20Gateway-em%20estudo-34568F?style=for-the-badge" height="32" />
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-em%20estudo-6750A4?style=for-the-badge" height="32" />
+  <img alt="Evals & Judge" src="https://img.shields.io/badge/Evals%20%26%20Judge-em%20estudo-157872?style=for-the-badge" height="32" />
+  <img alt="AI Security" src="https://img.shields.io/badge/AI%20Security-em%20estudo-985E37?style=for-the-badge" height="32" />
 
 </div>
 
@@ -77,10 +78,8 @@ Hoje conecto essa bagagem a projetos com **LLMs, RAG, agentes e desenvolvimento 
 | Projeto | O que ele demonstra |
 | :--- | :--- |
 | [**RAG e busca semântica**](https://github.com/EverttonFernandes/ingestao-busca-semantica-langchain-pgvector-postgresql) | Pipeline de PDF, chunking, embeddings, recuperação semântica e testes com Python, LangChain e pgvector. |
+| [**Clínica IA — laboratório agêntico**](https://github.com/EverttonFernandes/clinic-ai-platform) | Em desenvolvimento: arquitetura de plataforma multi-tenant com agentes, RAG, tools e agendamento, com atenção a segurança, idempotência e controle de custos. |
 | [**Digital Bank API**](https://github.com/EverttonFernandes/Digital-Bank-API) | Java/Spring Boot, transações, controle de concorrência, contratos REST e testes automatizados. |
-| [**SOLID Principles Robots**](https://github.com/EverttonFernandes/solid-principles-robots) | Princípios de orientação a objetos e SOLID explicados por exemplos com robôs. |
-
-**Em construção:** laboratório autoral de sistemas agênticos, com foco em ferramentas, RAG, isolamento entre clientes, segurança, avaliações e custos. *Funcionalidades em diferentes estágios de estudo e implementação.*
 
 ## Formação e compartilhamento
 
