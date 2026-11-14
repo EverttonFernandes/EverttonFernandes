@@ -120,7 +120,13 @@ API bancária com **transferências transacionais, lock pessimista, contratos RE
 - **Pós-graduação em Docência no Ensino Superior** — UNIFACEVEST.
 - **MBA em Engenharia de Software com Inteligência Artificial** — Full Cycle / FCTECH *(em andamento; conclusão prevista para dez/2026)*.
 
-Atuei como professor no **ensino técnico e superior**, orientando projetos e compartilhando fundamentos de programação, qualidade e arquitetura. Gosto de transformar problemas reais em exemplos que outras pessoas consigam entender e reproduzir.
+Atuei como professor no **ensino técnico e superior**, conectando fundamentos de programação e engenharia de software à prática. Também tive experiências que considero marcantes na formação de novos profissionais:
+
+- **Reconhecimento docente:** fui um dos professores homenageados pela turma **INF4AM 2025** do IFSul.
+- **Orientação acadêmica:** participei da **coorientação de Trabalhos de Conclusão de Curso (TCCs)**.
+- **Iniciação científica e tecnologia:** orientei o projeto **ContaComigo (Open Finance + IA)**, finalista da **MOCITEC 2026**.
+
+Ensinar e orientar projetos também faz parte da minha maneira de aprender, construir e compartilhar conhecimento.
 
 ---
 
