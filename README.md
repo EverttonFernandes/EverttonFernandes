@@ -96,7 +96,7 @@ API bancária com transações, controle de concorrência, documentação OpenAP
 ## Formação e conhecimento compartilhado
 
 - **Graduação em Sistemas para Internet** — IFSul Câmpus Charqueadas.
-- **Pós-graduação Latu Sensu em Docência no Ensino Superior** — UNIFACEVEST.
+- **Pós-graduação Lato Sensu em Docência no Ensino Superior** — UNIFACEVEST.
 - **MBA em Engenharia de Software com Inteligência Artificial** — FCTECH / Full Cycle *(em andamento; previsão de conclusão: dez/2026)*.
 
 Também sou professor de Tecnologia. Lecionei em cursos técnicos e de graduação, orientei e coorientei projetos acadêmicos e fui homenageado por estudantes do curso Técnico em Informática. **Ensinar, ler e construir** são partes complementares da minha maneira de aprender e evoluir.
