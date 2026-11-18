@@ -10,8 +10,6 @@
 
 </div>
 
-## 👋 Sobre mim
-
 Sou **Engenheiro de Software e Professor de Tecnologia**, com **7 anos de experiência** construindo e evoluindo **APIs, microsserviços, integrações e sistemas distribuídos**, principalmente com **Java e Spring Boot**. Minha atuação envolve **arquitetura, confiabilidade, concorrência, modernização de legado e qualidade** de sistemas corporativos.
 
 Ao longo dessa trajetória, trabalhei com desafios de **desempenho, processamento concorrente, mensageria e evolução arquitetural**. Também contribuí para a evolução de um **workflow corporativo de desenvolvimento assistido por IA**, utilizado pelo time, e construí um pipeline funcional de **RAG com LangChain e pgvector**.
