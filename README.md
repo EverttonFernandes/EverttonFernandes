@@ -12,7 +12,7 @@
 
 Sou **Engenheiro de Software e Professor de Tecnologia**, com **7 anos de experiência** construindo e evoluindo **APIs, microsserviços, integrações e sistemas distribuídos**, principalmente com **Java e Spring Boot**. Minha base está em **arquitetura, confiabilidade, concorrência, modernização de legado e qualidade de software**.
 
-**Meu foco profissional agora é a Engenharia de IA.** Quero atuar diretamente na construção de aplicações com **LLMs, agentes, RAG e ferramentas**, levando para esse contexto o rigor da Engenharia de Software: **boas decisões de arquitetura, testes, segurança, observabilidade e resiliência**. Para mim, não é deixar de fazer Engenharia de Software, mas ampliar **o que construo e a forma como desenvolvo soluções**.
+**Meu foco profissional agora é a Engenharia de IA** com intuito de atuar diretamente na construção de aplicações com **LLMs, agentes, RAG e ferramentas**, levando para esse contexto o rigor da Engenharia de Software: **boas decisões de arquitetura, testes, segurança, observabilidade e resiliência**. Para mim, não é deixar de fazer Engenharia de Software, mas ampliar **o que construo e a forma como desenvolvo soluções**.
 
 Essa direção já se reflete na prática: contribuí para a evolução de um **workflow corporativo de desenvolvimento assistido por IA**, utilizado pelo time, e construí um pipeline funcional de **RAG com LangChain e pgvector**. Também desenvolvo estudos e experimentos de **arquitetura agêntica, tool calling, evals e operação de sistemas com LLMs**, enquanto curso o **MBA em Engenharia de Software com Inteligência Artificial da Full Cycle**.
 
@@ -129,11 +129,11 @@ API bancária com **transferências transacionais, lock pessimista, contratos RE
 - **Pós-graduação em Docência no Ensino Superior** — UNIFACEVEST.
 - **MBA em Engenharia de Software com Inteligência Artificial** — Full Cycle / FCTECH *(em andamento; conclusão prevista para dez/2026)*.
 
-Atuei como professor no **ensino técnico e superior**, conectando fundamentos de programação e engenharia de software à prática. Também tive experiências que considero marcantes na formação de novos profissionais:
+Como professor tenho experiência pedagógica e andragógica envolvendo alunos do **ensino médio/técnico e superior**, conectando fundamentos de programação e engenharia de software à prática. Também tive experiências que considero marcantes na formação de novos profissionais:
 
-- **Reconhecimento docente:** fui um dos professores homenageados pela turma **INF4AM 2025** do IFSul.
-- **Orientação acadêmica:** participei da **coorientação de Trabalhos de Conclusão de Curso (TCCs)**.
-- **Iniciação científica e tecnologia:** orientei o projeto **ContaComigo (Open Finance + IA)**, finalista da **MOCITEC 2026**.
+- **Reconhecimento docente:** fui um dos professores homenageados pela turma **INF4AM 2025** do IFSul Câmpus Charqueadas.
+- **Orientação acadêmica:** Participação como **coorientador de Trabalhos de Conclusão de Curso (TCCs)**.
+- **Iniciação científica e tecnologia:** orientei o projeto **ContaComigo: democratizando a gestão financeira pessoal através do Open Finance e da Inteligência Artificial.**, finalista da **MOCITEC 2026**.
 
 Ensinar e orientar projetos também faz parte da minha maneira de aprender, construir e compartilhar conhecimento.
 
