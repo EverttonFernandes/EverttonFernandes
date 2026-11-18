@@ -1,15 +1,22 @@
 <div align="center">
 
-# Everton Oliveira Fernandes
+<h1>Everton Oliveira Fernandes</h1>
 
-**Engenheiro de Software · Professor de Tecnologia · Engenharia de IA**
-
-Há **7 anos** construo APIs, microsserviços e sistemas distribuídos, com forte atuação em **Java e Spring Boot**. Hoje conecto essa experiência à **Engenharia de IA**, explorando RAG, agentes, ferramentas e workflows de desenvolvimento assistido por IA.
+<p><strong>Engenheiro de Software · Professor de Tecnologia</strong><br/>
+<sub>Backend · Arquitetura de Software · Sistemas Distribuídos · IA aplicada</sub></p>
 
 <a href="https://www.linkedin.com/in/everton-oliveira-fernandes/"><img alt="LinkedIn — conectar" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="33" /></a>
 <a href="https://github.com/EverttonFernandes?tab=repositories"><img alt="GitHub — projetos" src="https://img.shields.io/badge/GitHub-Meus%20projetos-202B45?style=for-the-badge&logo=github&logoColor=white" height="33" /></a>
 
 </div>
+
+## 👋 Sobre mim
+
+Sou **Engenheiro de Software e Professor de Tecnologia**, com **7 anos de experiência** construindo e evoluindo **APIs, microsserviços, integrações e sistemas distribuídos**, principalmente com **Java e Spring Boot**. Minha atuação envolve **arquitetura, confiabilidade, concorrência, modernização de legado e qualidade** de sistemas corporativos.
+
+Ao longo dessa trajetória, trabalhei com desafios de **desempenho, processamento concorrente, mensageria e evolução arquitetural**. Também contribuí para a evolução de um **workflow corporativo de desenvolvimento assistido por IA**, utilizado pelo time, e construí um pipeline funcional de **RAG com LangChain e pgvector**.
+
+Atualmente, direciono essa bagagem para a **Engenharia de IA**, por meio de projetos e laboratórios que exploram **agentes, tool calling, evals, segurança e observabilidade**. Meu foco é combinar a experiência em software com práticas que tornem aplicações baseadas em LLMs **testáveis, confiáveis e sustentáveis**.
 
 ---
 
@@ -17,11 +24,11 @@ Há **7 anos** construo APIs, microsserviços e sistemas distribuídos, com fort
 
 <div align="center">
 
-**Linguagens, frameworks e APIs**
+<p><strong>Linguagens, frameworks e APIs</strong></p>
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,nodejs&theme=dark" height="67" alt="Java, Spring, Python, FastAPI, TypeScript e Node.js" />
 
-**Dados, mensageria e infraestrutura**
+<p><strong>Dados, mensageria e infraestrutura</strong></p>
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws&theme=dark" height="67" alt="PostgreSQL, MongoDB, Redis, Docker, Kubernetes e AWS" />
 
@@ -31,7 +38,7 @@ Há **7 anos** construo APIs, microsserviços e sistemas distribuídos, com fort
 <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-C32691?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="32" /></a>
 <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-E8742E?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" height="32" /></a>
 
-**Qualidade e testes automatizados**
+<p><strong>Qualidade e testes automatizados</strong></p>
 
 <img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" height="36" />
 <img src="https://img.shields.io/badge/Jest-B53A38?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" height="36" />
@@ -51,7 +58,7 @@ IA faz mais sentido para mim quando vai além de um prompt: **contexto, ferramen
 
 <div align="center">
 
-### Aplicações e experiências práticas
+<h3>Aplicações e experiências práticas</h3>
 
 <img src="https://img.shields.io/badge/LangChain-156A5E?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" height="38" />
 <img src="https://img.shields.io/badge/OpenAI%20API-374151?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" height="38" />
@@ -64,7 +71,7 @@ IA faz mais sentido para mim quando vai além de um prompt: **contexto, ferramen
 <img src="https://img.shields.io/badge/Ralph%20Loop-6154A8?style=for-the-badge" alt="Ralph Loop" height="38" />
 <img src="https://img.shields.io/badge/AI--assisted%20SDLC-225AA5?style=for-the-badge" alt="AI-assisted SDLC" height="38" />
 
-**Ecossistema de agentes, avaliação e operação que venho aprofundando**
+<h3>Agentes, avaliação e operação: aprofundamento contínuo</h3>
 
 <img src="https://img.shields.io/badge/LangGraph-0E786F?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" height="38" />
 <img src="https://img.shields.io/badge/LangSmith-13776B?style=for-the-badge&logo=langsmith&logoColor=white" alt="LangSmith" height="38" />
@@ -81,7 +88,7 @@ IA faz mais sentido para mim quando vai além de um prompt: **contexto, ferramen
 
 </div>
 
-A primeira linha reúne **código e contribuições que já executei**; a segunda reúne **ferramentas e conceitos com os quais venho experimentando e ampliando repertório**. Aprofundamento contínuo não significa ausência de prática, mas também não equivale a afirmar experiência em produção com tudo o que aparece aqui.
+O primeiro grupo destaca **tecnologias e práticas que já apliquei**; o segundo reúne **ferramentas e conceitos que sigo explorando e aprofundando**, inclusive em exercícios e projetos. Aprendizado contínuo e experiência prática caminham juntos, sem pressupor uso em produção de todas essas tecnologias.
 
 ---
 
@@ -104,7 +111,7 @@ Da ingestão de documentos à recuperação vetorial e geração de respostas an
 
 <img src="https://img.shields.io/badge/Status-arquitetura%20e%20implementa%C3%A7%C3%A3o%20em%20evolu%C3%A7%C3%A3o-7259B1?style=flat-square" alt="Arquitetura e implementação em evolução" /> <img src="https://img.shields.io/badge/Agentes%20%C2%B7%20RAG%20%C2%B7%20Multi--tenant%20%C2%B7%20AI%20Gateway-244B73?style=flat-square" alt="Agentes, RAG, multi-tenant e AI Gateway" />
 
-Estudo autoral de arquitetura para uma plataforma de atendimento e agendamento com IA: **System Design, diagramas, especificações, segurança, observabilidade, evals e harness de execução**. A implementação é incremental; **não é um produto em operação**.
+Estudo autoral de arquitetura para uma plataforma de atendimento e agendamento com IA: **System Design, diagramas, especificações, segurança, observabilidade, evals e harness de execução**. A implementação está em evolução; uso o projeto como **laboratório prático de Engenharia de IA**, sem apresentá-lo como produto em operação.
 
 ### <a href="https://github.com/EverttonFernandes/Digital-Bank-API">03 · Digital Bank API</a>
 
@@ -132,7 +139,7 @@ Ensinar e orientar projetos também faz parte da minha maneira de aprender, cons
 
 <div align="center">
 
-**Engenharia sólida para construir sistemas de IA que possam ser testados, explicados e evoluídos.**
+<p><strong>Engenharia de Software como base para construir aplicações com IA confiáveis, testáveis e evolutivas.</strong></p>
 
 <a href="https://www.linkedin.com/in/everton-oliveira-fernandes/"><img alt="Conectar no LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vamos%20conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" /></a>
 
