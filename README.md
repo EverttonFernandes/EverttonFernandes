@@ -94,10 +94,14 @@ O primeiro grupo destaca **tecnologias e práticas que já apliquei**; o segundo
 
 ## 🚀 O que já construí e contribuí
 
-- **Backend e sistemas distribuídos:** evolução de APIs e serviços, uso de Redis/Cache-Aside, tratamento de concorrência e modernização gradual com *Strangler Fig Pattern*.
-- **Mensageria em Open Finance:** melhorias no processamento concorrente de consumidores Kafka para enfrentar backlog e gargalos de execução.
-- **IA no desenvolvimento de software:** contribuição direta na evolução de um workflow corporativo de desenvolvimento assistido por IA, utilizado pelo time, implementando **Harness Engineering, Skills, Rules e Ralph Loop**.
-- **RAG funcional:** pipeline em Python com ingestão de PDF, chunking, embeddings, busca semântica com LangChain e PostgreSQL/pgvector, com testes e respostas baseadas no conteúdo recuperado.
+- Melhoria de disponibilidade e desempenho com Redis e Cache-Aside Pattern.
+- Controle de alta concorrência e paralelismo com semáforos e mecanismos de sincronização.
+- Migração gradual de módulos de um monólito modular para microsserviços com Strangler Fig Pattern.
+- Evolução de APIs REST/GraphQL, com base no modelo de maturidade de Richardson, integrações assíncronas, mensageria e arquiteturas desacopladas.
+- Estratégias de testes automatizados, observabilidade, qualidade de código e DevSecOps.
+- Participação em System Design e decisões arquiteturais.
+- Construção de workflow autônomo de desenvolvimento assistido por IA, da especificação ao deploy em homologação, com Spec-Driven Development, Harness Engineering, Skills, Rules, Evals, LLM-as-a-Judge e ciclos autônomos de validação.
+- Pipeline de ingestão semântica com RAG, LangChain, PostgreSQL e pgVector.
 
 ## 📌 Projetos em destaque
 
